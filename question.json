@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Mr. Leo has 24 seeds to plant. If he wants to plant them in 4 equal rows, how many seeds will go in each row?",
+        "options": [
+            "6",
+            "8",
+            "4",
+            "12"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Mr. Leo has 18 sunflower seeds. If he wants to plant them in 3 rows, how many sunflower seeds will be in each row?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "If Mr. Leo has 16 pumpkin seeds and he plants them in 4 rows, how many pumpkin seeds are in each row?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "There are 25 bean seeds, and Mr. Leo gives them to 5 students. How many bean seeds does each student receive?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "There are 54 tomato seeds and Mr. Leo wants to plant them in 6 rows. How many tomato seeds will be in each row?",
+        "options": [
+            "5",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6",
+        "question": "If 36 seeds are divided among 9 students, how many seeds does each student get?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Mr. Leo wants to plant 48 cucumber seeds in 6 rows. How many cucumber seeds will be in each row?",
+        "options": [
+            "6",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "If Mr. Leo has 40 radish seeds and divides them among 5 students, how many radish seeds does each student get?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Mr. Leo wants to plant 60 zinnia seeds. If he plants them in 10 equal rows, how many zinnia seeds will be in each row?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "10"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "There are 64 corn seeds, and Mr. Leo divides them among 8 students. How many corn seeds does each student receive?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 3
+    }
+]
